@@ -1,6 +1,7 @@
 body {
     background-color: aquamarine;
     flex-wrap: wrap;
+    display: flex;
 }
 
 h2 {
